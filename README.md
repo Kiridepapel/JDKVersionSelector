@@ -14,13 +14,33 @@ PYTHONHOME | C:\Python311
 
 #
 
-> Editar la variable de entorno llamada Path y agregarle estos dos valores:
+> Editar la variable de entorno llamada Path y agregarle los valores de:
 
 ```powershell
 %PYTHONHOME%\
 %PYTHONHOME%\Scripts\
 ```
 
-![Path](https://i.ibb.co/Q63ydNX/Path.png)
+![Path1](https://i.ibb.co/Q63ydNX/Path.png)
+
+#
+
+> Crear una variable de entorno en las variables de entorno de USER llamada JAVA_HOME con el valor de \bin de la version de JDK instalada en el sistema:
+
+```powershell
+JAVA_HOME | C:\Program Files\Java\jdk-17.0.7\bin
+```
+
+![JAVA_HOME](https://i.ibb.co/kxDWw19/java-home.png)
+
+#
+
+> Editar la variable de entorno llamada Path y agregarle el valor de:
+
+```powershell
+%JAVA_HOME%
+```
+
+![Path2](https://i.ibb.co/qkVQgK4/path2.png)
 
 #
