@@ -25,6 +25,10 @@ PYTHONHOME | C:\Python311
 
 #
 
+> Tener al menos [Java 17 para Windows](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) instalado.
+
+#
+
 > Crear una variable de entorno en las variables de entorno de USER llamada JAVA_HOME con el valor de \bin de la version de JDK instalada en el sistema:
 
 ```powershell
