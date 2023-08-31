@@ -1,6 +1,6 @@
 #
 
-> Tener al menos [Python 3.11.4](https://www.python.org/downloads/) instalado.
+> Tener al menos [Python 3.11.4](https://www.python.org/downloads/) instalado _(instalarlo para todos los usuarios en la ruta C:\Python311)_.
 
 #
 
@@ -48,3 +48,21 @@ JAVA_HOME | C:\Program Files\Java\jdk-17.0.7\bin
 ![Path2](https://i.ibb.co/qkVQgK4/path2.png)
 
 #
+
+> Ir a [Properties] del archivo de tipo Shortcut (ejecutable).
+
+![Open shortcut properties](https://i.ibb.co/yRTHJb9/shortcut.png)
+
+> Pegar la ruta donde se clonó el repositorio en tu computadora local.
+
+![Base shortcut 1](https://i.ibb.co/3rYYBMd/base-1.png)
+![Base shortcut 2](https://i.ibb.co/47P2x80/base-2.png)
+
+> Ejemplo de como debe quedar.
+
+![Edit shortcut properties 1](https://i.ibb.co/SKWJNgf/real-1.png)
+![Edit shortcut properties 2](https://i.ibb.co/0QSnXds/real-2.png)
+
+> Gaurdar y crear un acceso directo en el escritorio del archivo de tipo Shortcut
+
+![Direct](https://i.ibb.co/H4xSrg9/shortcut-access.png)
