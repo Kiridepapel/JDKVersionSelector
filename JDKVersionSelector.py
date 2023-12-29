@@ -38,7 +38,7 @@ class JDKVersionSelector(tk.Tk):
         return java_versions
 
     def set_java_home(self, java_home_path):
-        subprocess.run(["cmd.exe", "/c", "setx", "JAVA_HOME", f'{java_home_path}\\bin'])
+        subprocess.run(["cmd.exe", "/c", "setx", "JAVA_HOME", f'{java_home_path}'])
         self.destroy()
 
 if __name__ == '__main__':
