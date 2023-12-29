@@ -63,6 +63,6 @@ JAVA_HOME | C:\Program Files\Java\jdk-17.0.7\bin
 ![Edit shortcut properties 1](https://i.ibb.co/SKWJNgf/real-1.png)
 ![Edit shortcut properties 2](https://i.ibb.co/0QSnXds/real-2.png)
 
-> Guardar y crear un acceso directo del archivo en el escritorio
+> Save y crear un acceso directo del archivo en el escritorio
 
 ![Direct](https://i.ibb.co/H4xSrg9/shortcut-access.png)
